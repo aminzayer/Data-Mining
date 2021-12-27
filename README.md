@@ -28,6 +28,14 @@ Amin Zayeromali
 
 Twitter: [@AminZayeromali](https://twitter.com/aminzayeromali)
 
+Instagram: [aminzayer](https://www.instagram.com/aminzayer/)
+
+Linkedin: [aminzayeromali](https://ir.linkedin.com/in/aminzayeromali)
+
+Google Scolar: [Amin Zayeromali](https://scholar.google.com/citations?user=IDR8QvcAAAAJ&hl=en)
+
+Email : [Amin{dot}zayeromali{At}gmail{dot}com](&#109;&#097;&#105;&#108;&#116;&#111;:&#097;&#109;&#105;&#110;&#046;&#122;&#097;&#121;&#101;&#114;&#111;&#109;&#097;&#108;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
+
 
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/aminzayeromali'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
