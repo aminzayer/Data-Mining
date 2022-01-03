@@ -5,6 +5,10 @@ Data Mining Projects and Implementation
 
 A set of algorithms and Projects written for Data Mining
 
+Understanding the K-Means Clustering Algorithm
+
+Let’s look at how k-means clustering works. First, let me introduce you to my good friend, blobby; i.e. the make_blobs function in Python’s sci-kit learn library. We’ll create four random clusters using make_blobs to aid in our task.
+
 ## Getting Started
 
 ### Dependencies
